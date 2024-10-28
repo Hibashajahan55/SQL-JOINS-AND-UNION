@@ -1,4 +1,4 @@
-# SQL -JOINS AND UNIONS
+# SQL -JOINS AND UNION
 # INTRODUCTION 
 
 This project demonstrates SQL operations on two tables: `Country` and `Persons`. The focus is on performing different types of joins, unions, and data manipulation, including rounding and data selection.
